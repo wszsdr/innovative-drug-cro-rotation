@@ -1,0 +1,16 @@
+# 环境
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 编辑器与系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 会话与中间产物
+.workbuddy/
+_check.js
+*.log
